@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shanu
 
-<!--
-**Shanusvm/Shanusvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Automation Lead based in Perth, Western Australia, Australia.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building AI voice solutions at SixVM (https://sixvm.com.au), including AI voice assistants for bookings, orders, and customer support. Designing n8n workflows and RAG (Retrieval-Augmented Generation) architectures for business automation. Developing with Python and Django. Automating document and data extraction (PDFs, invoices, forms) into business systems.
+
+## Tech Stack
+
+Python, Django, n8n, RAG, NLP, Supabase, React, Twilio
+
+## Connect with me
+
+Website: https://sixvm.com.au
+
+LinkedIn: https://www.linkedin.com/in/shanu-san
+
+Location: Perth, Australia
+
+Feel free to reach out for automation or AI voice solution projects.
